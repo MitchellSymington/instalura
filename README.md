@@ -1,9 +1,9 @@
 <h2 align="center">
-Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação completa (Back-end, Front-end e Mobile). :rocket: :barber:.</br>
+Clone do instagran feito no Curso Alura React.</br>
 </h2>
  
 <p align="center"> 
- <img 
+ <img height="260"
     src=".github/alura-dark-300.png"/>
 </p>
  
@@ -19,8 +19,8 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 
 ### Web
 <p float="left"> 
- <img height="260" src=".github/Captura de Tela 2020-10-26 às 16.51.20.png"/>
- <img height="260" src=".github/Captura de Tela 2020-10-26 às 16.51.20.png"/>
+ <img src=".github/Captura de Tela 2020-10-26 às 16.51.20.png"/>
+ <img src=".github/Captura de Tela 2020-10-26 às 16.51.20.png"/>
 </p>
 
 
