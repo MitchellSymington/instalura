@@ -3,7 +3,7 @@ Clone do instagran feito no Curso Alura React.</br>
 </h2>
  
 <p align="center"> 
- <img height="60"
+ <img height="100"
     src=".github/alura-dark-300.png"/>
 </p>
  
