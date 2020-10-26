@@ -3,19 +3,13 @@ Clone do instagran feito no Curso Alura React.</br>
 </h2>
  
 <p align="center"> 
- <img height="260"
+ <img height="60"
     src=".github/alura-dark-300.png"/>
 </p>
  
 ## :rocket: Tecnologias
 - :blue_book: JavaScript
 - :computer: Frontend - ReactJs | FLUX.
-
-## :open_file_folder: Repositórios
-<a href="https://github.com/MitchellSymington/gobarber-api"># Repositório API</a> </br>
-<a href="https://github.com/MitchellSymington/gobarber-web"># Repositório WEB</a> </br>
-<a href="https://github.com/MitchellSymington/gobarber"># Repositório MOBILE</a> </br>
-
 
 ### Web
 <p float="left"> 
